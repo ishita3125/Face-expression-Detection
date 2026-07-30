@@ -87,8 +87,6 @@ Run the application
 python gui.py
 ```
 
----
-
 ## 🧠 Model Details
 
 | Parameter | Value |
@@ -102,17 +100,6 @@ python gui.py
 
 ---
 
-## 📊 Workflow
-
-1. Capture video from webcam
-2. Detect face using Haar Cascade
-3. Crop and preprocess the face
-4. Feed image into CNN model
-5. Predict emotion
-6. Display emotion label in real-time
-
----
-
 ## 📈 Future Improvements
 
 - Face recognition support
@@ -121,16 +108,6 @@ python gui.py
 - Mobile deployment
 - Better accuracy using EfficientNet or MobileNetV3
 - Mask detection integration
-
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Main GUI
-- Emotion Detection
-- Training Accuracy Graph
 
 ---
 
